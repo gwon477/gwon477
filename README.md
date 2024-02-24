@@ -3,6 +3,11 @@
 <h2 align="center"> Hi✋, I'm Gwonsang!😆</h2>
 <h3 align="center"> I am Back-End developer who love develop</h3>
 <p align="center"> I believe in the strengh of communication and collaboration </p>
+<div align="center">
+  
+  ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gwonsang-yang-b3743a250/)
+ 
+</div>
 
 <br>
 <br>
