@@ -5,11 +5,16 @@
 <p align="center"> I believe in the strengh of communication and collaboration </p>
 <div align="center">
   
-  ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gwonsang-yang-b3743a250/)     <a href="https://velog.io/@gwon477">
+  <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+    </a>     <a href="https://velog.io/@gwon477">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
  
 </div>
+
+
+
 
 <br>
 <br>
