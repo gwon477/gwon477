@@ -43,7 +43,7 @@
   |DataBase(Nosql)|MongoDB|
   
 </details>
-
+<details>
 <summary> <strong>Testing & Observity</strong>  </summary>
   
   |Subcategory|Details|
@@ -52,7 +52,7 @@
   |Observity|Prometeus, Grafana|
   
 </details>
-
+<details>
 <summary> <strong>Tools</strong>  </summary>
   
   |Subcategory|Details|
