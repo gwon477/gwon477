@@ -19,7 +19,7 @@
 <br>
 
 <details>
-<summary><b>Stack Details</b></b></summary>
+<summary><h2> 📝 Stack Details </h2></b></summary>
   | Category               | Subcategory            | Details                                           |
 |------------------------|------------------------|---------------------------------------------------|
 | Languages & Frameworks | Programming Languages  | Java                                              |
