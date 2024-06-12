@@ -22,11 +22,13 @@
   
 <details>
 <summary> Languages & Frameworks </summary>
+  
   |Subcategory|Details|
   |------|---|
   |Programming Languages|Java, Python|
   |Web Frameworks|Spring Boot, Spring, NestJS|
   |Data Access|JPA, MyBatis, Prisma|
+  
 </details>
 
 <h2 align="left">📚 Tech Stack 📚</h3>
