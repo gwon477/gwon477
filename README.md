@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FBA834&height=300&section=header&text=Gwonsang%20Yang&fontColor=35374B&fontSize=100&animation=fadeIn)
-
 <h2 align="center"> Hi✋, I'm Gwonsang!😆</h2>
+---
 <h3 align="center"> I am Back-End developer who love develop</h3>
 <p align="center"> I believe in the strengh of communication and collaboration </p>
 <div align="center">
