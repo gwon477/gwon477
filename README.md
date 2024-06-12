@@ -23,7 +23,7 @@
 <details>
 <summary> <strong>Languages & Frameworks</strong> </summary>
   
-  |Subcategory|Details|
+  |Subcategory|Details|tag|
   |:------|:---|:----|
   |Programming Languages|Java, Python||
   |Web Frameworks|Spring Boot, Spring, NestJS|a|
