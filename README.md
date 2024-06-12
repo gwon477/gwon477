@@ -1,8 +1,7 @@
-<h2 align="center"> Hi✋, I'm Gwonsang!😆</h2>
----
-<h3 align="center"> I am Back-End developer who love develop</h3>
-<p align="center"> I believe in the strengh of communication and collaboration </p>
-<div align="center">
+<h2 align="right"> Hi✋, I'm Gwonsang!😆</h2>
+<h3 align="right"> I am Back-End developer who love develop</h3>
+<p align="right"> I believe in the strengh of communication and collaboration </p>
+<div align="right">
   
   <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
