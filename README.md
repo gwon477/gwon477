@@ -1,4 +1,4 @@
-<h2 align="left"> Hi✋, I'm Gwonsang!😆</h2>
+<h2 align="left">👋🏻 Gwonsang Yang</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
@@ -8,10 +8,34 @@
 </div>
 <br>
 <br>
+
 <h2 align="left"> 💻 Projects </h2>
+<p>
+<h3><a href="https://github.com/gwon477/Dmarket"> Dmarket</a> &nbsp; <sub> 2023.12 - 2024.02 (PM) </sub></h3>
+<h3> <a href="https://github.com/gwon477/ODO-Blog-Service"> ODO Blog </a> &nbsp; <sub> 2023.09 - 2023.12 </sub> </h3>
+</p>
 
 <br>
 <br>
+
+<details>
+<summary><b>Stack Details</b></b></summary>
+  | Category               | Subcategory            | Details                                           |
+|------------------------|------------------------|---------------------------------------------------|
+| Languages & Frameworks | Programming Languages  | Java                                              |
+|                        | Web Frameworks         | Spring Boot, Spring                               |
+|                        | Data Access            | JPA, MyBatis                                     |
+| Infrastructures        | Cloud                  | AWS, KC                                           |
+|                        | CI/CD                  | Github Actions, Jenkins                           |
+|                        | Databases - RDBMS      | PostgreSQL, Oracle, MySQL, MsSQL                  |
+|                        | Databases - NoSQL      | Elasticsearch, MongoDB                            |
+|                        | Etc                    | Docker, Ubuntu                                    |
+| Testing & Observability| Testing                | JUnit5                                            |
+|                        | Observability          | Elastic Stack                                     |
+| Tools                  | Development Tools      | IntelliJ, Eclipse, DBeaver, SQL Developer         |
+|                        | Collaboration Tools    | Jira, Slack, Notion, Figma, Canva, ERD Cloud      |
+|                        | Version Control        | GitHub, SVN                                       |
+</details>
 
 <h2 align="left">📚 Tech Stack 📚</h3>
 <div align="left">
