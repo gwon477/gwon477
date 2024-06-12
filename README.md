@@ -25,7 +25,7 @@
   
   |Subcategory|Details|Tag|
   |:------|:---|:-----|
-  |Programming Languages|Java, Python|![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"),![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white")|
+  |Programming Languages|Java, Python|![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"),<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">|
   |Web Frameworks|Spring Boot, Spring, NestJS||
   |Data Access|JPA, MyBatis, Prisma||
   |etc|JWT, Spring Batch||
