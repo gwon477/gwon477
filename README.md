@@ -63,36 +63,8 @@
   
 </details>
 
-<h2 align="left">📚 Tech Stack 📚</h3>
+<h2 align="left">✏ Dev Log ✏</h3>
 <div align="left">
-  
-  ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white")
-  ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)
-  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-  
-  ![jwt](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-  ![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-
-  
-  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-  ![](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-  ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-
-<h2 align="center">✏ Dev Log ✏</h3>
-<div align="center">
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gwon477)](https://github.com/@gwon477/velog-readme-stats)
 
