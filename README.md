@@ -25,7 +25,7 @@
   
   |Subcategory|Details|Tag|
   |:------|:---|:-----|
-  |Programming Languages|Java, Python|![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")|
+  |Programming Languages|Java, Python|![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"),![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white")|
   |Web Frameworks|Spring Boot, Spring, NestJS||
   |Data Access|JPA, MyBatis, Prisma||
   |etc|JWT, Spring Batch||
@@ -66,7 +66,7 @@
 <h2 align="left">📚 Tech Stack 📚</h3>
 <div align="left">
   
-  
+  ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white")
   ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
