@@ -21,31 +21,52 @@
 ## 📝 Stack Details </h2>
   
 <details>
-<summary> <h3><strong>Languages & Frameworks</strong><h3> </summary>
+<summary> <strong>Languages & Frameworks</strong> </summary>
   
   |Subcategory|Details|
   |:------|:---|
-  |Programming Languages|Java, Python|
+  |Programming Languages|Java, Python|![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white),![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
   |Web Frameworks|Spring Boot, Spring, NestJS|
   |Data Access|JPA, MyBatis, Prisma|
+  |etc|JWT, Spring Batch|
   
 </details>
 
 <details>
-<summary> Infrastructures  </summary>
+<summary> <strong>Infrastructures</strong>  </summary>
   
   |Subcategory|Details|
   |:------|:---|
-  |Programming Languages|Java, Python|
-  |Web Frameworks|Spring Boot, Spring, NestJS|
-  |Data Access|JPA, MyBatis, Prisma|
+  |Cloud|AWS, KC|
+  |Deploy|GitActions, Jenkins, Docker|
+  |DataBase(RDB)|Mysql, MariaDB, Redis|
+  |DataBase(Nosql)|MongoDB|
+  
+</details>
+
+<summary> <strong>Testing & Observity</strong>  </summary>
+  
+  |Subcategory|Details|
+  |:------|:---|
+  |Testing|Junit5, JMeter|
+  |Observity|Prometeus, Grafana|
+  
+</details>
+
+<summary> <strong>Tools</strong>  </summary>
+  
+  |Subcategory|Details|
+  |:------|:---|
+  |Development|Intellij, VScode|
+  |Collaboration|Notion, Jira, Figma, Slack, Canva|
+  |Version Controll|Github|
   
 </details>
 
 <h2 align="left">📚 Tech Stack 📚</h3>
 <div align="left">
   
-  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
   ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
