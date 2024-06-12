@@ -1,4 +1,4 @@
-<h2 align="left">👋🏻 Gwonsang Yang</h2>
+## 👋🏻 Gwonsang Yang 
 <div align="left">
   <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<h2 align="left"> 💻 Projects </h2>
+## 💻 Projects
 <p>
 <h3><a href="https://github.com/gwon477/Dmarket"> Dmarket</a> &nbsp; <sub> 2023.12 - 2024.02 (PM) </sub></h3>
 <h3> <a href="https://github.com/gwon477/ODO-Blog-Service"> ODO Blog </a> &nbsp; <sub> 2023.09 - 2023.12 </sub> </h3>
@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<h2 align="left> 📝 Stack Details </h2>
+## 📝 Stack Details </h2>
   
 <details>
 <summary> Languages & Frameworks </summary>
