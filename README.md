@@ -1,4 +1,4 @@
-## 👋🏻 Gwonsang Yang 
+# 👋🏻 Gwonsang Yang 
 <p>
 <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/" target="_blank"><img src="https://img.shields.io/badge/gwon477-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/" target="_blank"><img src="https://img.shields.io/badge/GwonsangYang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
