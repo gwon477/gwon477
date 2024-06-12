@@ -19,6 +19,7 @@
 <br>
 
 <h2 align="left> 📝 Stack Details </h2>
+  
 <details>
 <summary> Languages & Frameworks </summary>
   |Subcategory|Details|
