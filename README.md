@@ -23,12 +23,12 @@
 <details>
 <summary> <strong>Languages & Frameworks</strong> </summary>
   
-  |Subcategory|Details|tag|
-  |:------|:---|:----|
-  |Programming Languages|Java, Python|![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)|
-  |Web Frameworks|Spring Boot, Spring, NestJS|a|
-  |Data Access|JPA, MyBatis, Prisma|a|
-  |etc|JWT, Spring Batch|a|
+  |Subcategory|Details|
+  |:------|:---|
+  |Programming Languages|Java, Python|
+  |Web Frameworks|Spring Boot, Spring, NestJS|
+  |Data Access|JPA, MyBatis, Prisma|
+  |etc|JWT, Spring Batch|
   
 </details>
 
