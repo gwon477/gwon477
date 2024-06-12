@@ -21,7 +21,7 @@
 ## 📝 Stack Details </h2>
   
 <details>
-<summary> **Languages & Frameworks** </summary>
+<summary> <h3><strong>Languages & Frameworks</strong><h3> </summary>
   
   |Subcategory|Details|
   |:------|:---|
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary> Languages & Frameworks </summary>
+<summary> Infrastructures  </summary>
   
   |Subcategory|Details|
   |:------|:---|
