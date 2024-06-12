@@ -1,14 +1,8 @@
 ## 👋🏻 Gwonsang Yang 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/">
-        ![](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white")
-  </a>     
-  <a href="https://velog.io/@gwon477">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"> 
-  </a>
-</div>
-<br>
-
+<p>
+<a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 ## 💻 Projects
 <p>
