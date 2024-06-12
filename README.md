@@ -21,10 +21,21 @@
 ## 📝 Stack Details </h2>
   
 <details>
+<summary> **Languages & Frameworks** </summary>
+  
+  |Subcategory|Details|
+  |:------|:---|
+  |Programming Languages|Java, Python|
+  |Web Frameworks|Spring Boot, Spring, NestJS|
+  |Data Access|JPA, MyBatis, Prisma|
+  
+</details>
+
+<details>
 <summary> Languages & Frameworks </summary>
   
   |Subcategory|Details|
-  |------|---|
+  |:------|:---|
   |Programming Languages|Java, Python|
   |Web Frameworks|Spring Boot, Spring, NestJS|
   |Data Access|JPA, MyBatis, Prisma|
