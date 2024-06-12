@@ -3,9 +3,13 @@
 <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/" target="_blank"><img src="https://img.shields.io/badge/gwon477-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/" target="_blank"><img src="https://img.shields.io/badge/GwonsangYang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
+- KaKao Enterprise Internship
+- Kakao Enterprise SW Academy 3rd
+- Studying the field of Backend
+- Major in Computer Science & Engineering
 
 <br>
-<br>
+
 
 ## 💻 Projects
 <p>
@@ -14,7 +18,10 @@
 </p>
 
 <br>
-<br>
+
+## ⚙️ Training
+- Multi Cloud Orchestration (Terraform) 2023.12
+- Monitoring and Testing Implementation in a DevOps Environment (Elastic Stack) 2023.11
 
 ## 📝 Stack Details </h2>
   
