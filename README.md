@@ -1,7 +1,7 @@
 ## 👋🏻 Gwonsang Yang 
 <div align="left">
   <a href="https://www.linkedin.com/in/gwonsang-yang-b3743a250/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"> 
+        <img src="https://img.shields.io/badge/linkedin-#0A66C2?style=flat&logo=linkedin&logoColor=white"> 
   </a>     
   <a href="https://velog.io/@gwon477">
         <img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"> 
