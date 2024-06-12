@@ -5,20 +5,16 @@
     </a>     <a href="https://velog.io/@gwon477">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
- 
 </div>
-
-
-
+<br>
+<br>
+<h2 align="left"> 💻 Projects </h2>
 
 <br>
 <br>
-<br>
-<br>
 
-<h2 align="center">📚 Tech Stack 📚</h3>
-<p align="center"> Techs that i've used at least once </p>
-<div align="center">
+<h2 align="left">📚 Tech Stack 📚</h3>
+<div align="left">
   
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)
