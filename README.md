@@ -18,23 +18,14 @@
 <br>
 <br>
 
+<h2 align="left> 📝 Stack Details </h2>
 <details>
-<summary><h2> 📝 Stack Details </h2></b></summary>
-  | Category               | Subcategory            | Details                                           |
-|------------------------|------------------------|---------------------------------------------------|
-| Languages & Frameworks | Programming Languages  | Java                                              |
-|                        | Web Frameworks         | Spring Boot, Spring                               |
-|                        | Data Access            | JPA, MyBatis                                     |
-| Infrastructures        | Cloud                  | AWS, KC                                           |
-|                        | CI/CD                  | Github Actions, Jenkins                           |
-|                        | Databases - RDBMS      | PostgreSQL, Oracle, MySQL, MsSQL                  |
-|                        | Databases - NoSQL      | Elasticsearch, MongoDB                            |
-|                        | Etc                    | Docker, Ubuntu                                    |
-| Testing & Observability| Testing                | JUnit5                                            |
-|                        | Observability          | Elastic Stack                                     |
-| Tools                  | Development Tools      | IntelliJ, Eclipse, DBeaver, SQL Developer         |
-|                        | Collaboration Tools    | Jira, Slack, Notion, Figma, Canva, ERD Cloud      |
-|                        | Version Control        | GitHub, SVN                                       |
+<summary> Languages & Frameworks </summary>
+  |Subcategory|Details|
+  |------|---|
+  |Programming Languages|Java, Python|
+  |Web Frameworks|Spring Boot, Spring, NestJS|
+  |Data Access|JPA, MyBatis, Prisma|
 </details>
 
 <h2 align="left">📚 Tech Stack 📚</h3>
