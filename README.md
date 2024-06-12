@@ -25,7 +25,7 @@
   
   |Subcategory|Details|
   |:------|:---|:----|
-  |Programming Languages|Java, Python|![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)|
+  |Programming Languages|Java, Python||
   |Web Frameworks|Spring Boot, Spring, NestJS|a|
   |Data Access|JPA, MyBatis, Prisma|a|
   |etc|JWT, Spring Batch|a|
