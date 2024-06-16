@@ -10,6 +10,7 @@
 - Major in Computer Science & Engineering
 
 <br>
+<br>
 
 
 ## 💻 Projects
@@ -19,10 +20,14 @@
 </p>
 
 <br>
+<br>
 
 ## ⚙️ Training
 - Multi Cloud Orchestration (Terraform) 2023.12
 - Monitoring and Testing Implementation in a DevOps Environment (Elastic Stack) 2023.11
+
+<br>
+<br>
 
 ## 📝 Stack Details </h2>
   
