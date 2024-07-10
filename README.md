@@ -80,7 +80,7 @@
 <h2 align="left"> Latest Blog</h3>
 <div align="left">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gwon477)](https://github.com/@gwon477/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=BBANG.Zip)](https://github.com/@gwon477/velog-readme-stats)
 
 </div>
 
