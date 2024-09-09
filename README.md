@@ -1,4 +1,4 @@
-# 👋🏻 Gwonsang Yang 
+# 👋🏻 Gwonsang
 <p>
 <a href="https://velog.io/@gwon477/posts" target="_blank"><img src="https://img.shields.io/badge/gwon477-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EA%B6%8C%EC%83%81-%EC%96%91-b3743a250/" target="_blank"><img src="https://img.shields.io/badge/GwonsangYang-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
