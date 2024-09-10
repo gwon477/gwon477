@@ -74,13 +74,4 @@
   
 </details>
 
-<br>
-<br>
-
-<h2> Latest Blog </h2>
-<div align="left">
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gwonsang247)](https://velog.io/@gwon477)
-  
-</div>
 
