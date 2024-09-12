@@ -23,6 +23,7 @@
 <br>
 
 ## ⚙️ Training
+- AWS Tech Camp 2024.09
 - Multi Cloud Orchestration (Terraform) 2023.12
 - Monitoring and Testing Implementation in a DevOps Environment (Elastic Stack) 2023.11
 
