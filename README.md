@@ -24,7 +24,7 @@
 
 ⚙️ <b>Training</b>
 <li>AWS Tech Camp <sub>2024.09</sub> </li>
-<li>Monitoring and Testing Implementation in a DevOps Environment (Elastic Stack) <sub>2023.12.11~12.14</sub> </li>
+<li>Monitoring and Testing Implementation in a DevOps Environment (Elastic Stack) <sub>2023.12.11~14</sub> </li>
 <li>Multi Cloud Orchestration (Terraform) <sub> 2023.11.13~16 </sub></li>
 <li> AWS JAM <sub> 2023.11.2 </sub> </li>
 
